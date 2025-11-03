@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/Neuralink
 
 
 
-
+https://pt.wikipedia.org/wiki/Classe_Tridente
 
 
 
