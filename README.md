@@ -44,3 +44,6 @@ https://pt.wikipedia.org/wiki/Classe_Tridente
 
 
 https://pt.wikipedia.org/wiki/NRP_Arp%C3%A3o_(S161)
+
+
+https://en.wikipedia.org/wiki/Kernel_(neurotechnology_company)
