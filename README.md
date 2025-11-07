@@ -24,3 +24,7 @@ https://en.wikipedia.org/wiki/Nervous_system
 
 https://en.wikipedia.org/wiki/Kernel_(neurotechnology_company)
 
+
+
+
+https://en.wikipedia.org/wiki/Synapse
