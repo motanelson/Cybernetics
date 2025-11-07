@@ -29,3 +29,6 @@ https://en.wikipedia.org/wiki/Kernel_(neurotechnology_company)
 
 
 https://en.wikipedia.org/wiki/Synapse
+
+
+https://www.ti.com/document-viewer/AFE4900/datasheet#description-sbas7532822/t4959270-16
