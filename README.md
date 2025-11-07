@@ -43,3 +43,6 @@ https://www.ti.com/lit/gpn/AFE44S30?keyMatch=bio%20sense&tisearch=universal_sear
 
 
 https://www.ti.com/lit/gpn/AFE44I30?keyMatch=bio%20sense&tisearch=universal_search
+
+
+https://www.ti.com/lit/gpn/AFE4462?keyMatch=bio%20sense&tisearch=universal_search
