@@ -32,3 +32,7 @@ https://en.wikipedia.org/wiki/Synapse
 
 
 https://www.ti.com/document-viewer/AFE4900/datasheet#description-sbas7532822/t4959270-16
+
+
+https://www.ti.com/lit/gpn/AFE49I30?keyMatch=bio%20sense&tisearch=universal_search
+
